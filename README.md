@@ -1,2 +1,3 @@
-# DATA88-SP22
-Data 88 - Environmental Policy
+# Data 88 Spring 2022
+Environmental Policy
+
