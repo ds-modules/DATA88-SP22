@@ -6,7 +6,7 @@
 Data for Data 88: Environmental Policy
 
 Environmental Policy
-Students will learn and apply statistical and Python programming skills to analyze
+Students will learn and apply statistical and Python programming skills to explore the intersection of data science and environmental policy analysis through applications in environmental justice, carbon emissions, pollution regulation, and remote sensing.
 
 
 | Module | Summary                                                               | Data                                                   | Binder Link          |Berkeley Datahub Link          |
