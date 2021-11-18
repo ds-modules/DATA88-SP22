@@ -1,7 +1,7 @@
 # Data 88 Spring 2022
 ## Environmental Policy
 ### Professor: Daniel Hammer
-#### Developer Team: Aaron Moore, Caitlin Yee, Kinsey Long, Peter Grinde-Hollevik, Hans Ocampo
+#### Developer Team: Aaron Moore, Caitlin Yee, Kinsey Long, Peter Flo Grinde-Hollevik, Hans Ocampo
 
 Data for Data 88: Environmental Policy
 
