@@ -11,14 +11,15 @@ Please contact Head TA Peter F. Grinde-Hollevik with any questions.  He knows ev
 
 | Lecture         | Date       | Summary                                     | Topic                 | Datahub Link       |
 |-----------------|------------|---------------------------------------------|-----------------------|--------------------|
-| [Lecture 1](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture1) | 01/18/2022 | Course overview & Introduction to Python    | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 2](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture2) | 01/25/2022 | Sort, merge, and aggregate tables           | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 3](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture3) | 02/01/2022 | Finding correlations                        | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 4](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture4) | 02/08/2022 | Creating distributions                      | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 5](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture5) | 02/15/2022 | Simple mapping                              | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 6](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture6) | 02/22/2022 | Finding correlations                        | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 7](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture7) | 03/01/2022 | Recreating published results                | Emissions Abatement   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 8](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture8) | 03/08/2022 | Fitting a curve                             | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-| [Lecture 9](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture9) | 03/15/2022 | Data visualization                          | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
-
+| [Lecture1](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture1) | 01/18 | Course overview & Introduction to Python    | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture2](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture2) | 01/25 | Sort, merge, and aggregate tables           | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture3](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture3) | 02/01 | Finding correlations                        | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture4](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture4) | 02/08 | Creating distributions                      | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture5](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture5) | 02/15 | Simple mapping                              | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture6](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture6) | 02/22 | Finding correlations                        | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture7](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture7) | 03/01 | Recreating published results                | Emissions Abatement   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture8](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture8) | 03/08 | Fitting a curve                             | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture9](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture9) | 03/15 | Data visualization                          | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture10](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture10)| 03/22 | Web API interactions                        | City-level emissions  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| Panel           | 03/29 | (**5pm PT**) Newton Distinguished Innovator Lecture | Career trajectory    | I-House Chevron Auditorium  |
 
