@@ -1,22 +1,24 @@
-# Data 88 Spring 2022
-## Environmental Data Analysis
-### Professor: Daniel Hammer
-#### Developer Team: Aaron Moore, Caitlin Yee, Kinsey Long, Peter Flo Grinde-Hollevik, Hans Ocampo
+## Environmental Data Analysis (Data 88 Spring 2022)
 
-Data 88: Environmental Data Analysis
+**Developer Team**: Aaron Moore, Caitlin Yee, Kinsey Long, Peter Flo Grinde-Hollevik, Hans Ocampo
 
-Students will learn and apply statistical and Python programming skills to explore the intersection of data science and environmental policy analysis through applications in environmental justice, carbon emissions, pollution regulation, and remote sensing.
+Environmental Data Analysis, taught by [Dan Hammer](https://danham.me/r), will teach practical skills to address climate change and environmental conservation using data and building on what you've learned in DATA 8.
 
-| Module | Summary                                                               | Data                                                   | Binder Link          |Berkeley Datahub Link          |
-|----------|-----------------------------------------------------------------------|--------------------------------------------------------|------------------------|------------------------|
-| whej01 | Introduction to Environmental Justice Index:  Python, Jupyter| California WHEJ | | [launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Fwhej01%2Fwhej01.ipynb&branch=main)|
-| whej02 | Comparing Urban & Rural Environmental Data: Tables, Data Visualization | California WHEJ | | [launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Fwhej02%2Fwhej02.ipynb&branch=main)|
-| whej03 | Health Outcomes vs Demographic Factors vs Environmental Factors: Linear Regression, Correlation | California WHEJ | | [launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Fwhej02%2Fwhej02.ipynb&branch=main)|
-| trace01 | Impact of COVID-19 on Greenhouse Gas Emissions: Table Manipulation | TRACE | | [launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Ftrace01%2Ftrace01.ipynb&branch=main)|
-| trace02 | Greenhouse Gas Emissions at the Sector and Subsector Level: Data Cleaning, Table Manipulation| TRACE | |[launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Ftrace02%2Ftrace02.ipynb&branch=main)|
-| trace03 | Comparing Greenhouse Gas Emissions across Countries: Table Manipulation, Mapping| TRACE | |[launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2Ftrace03%2Ftrace03.ipynb&branch=main) |
-| MAC Curve | Introduction to Environmental Economics in Data Science and Marginal Abatement Cost Curves | Emissions Abatement | | [Lecture 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2FMAC_Curve%2FIntro-to-Environmental-Economics-and-Data-Science-MAC-CURVE.ipynb&branch=main) and [Lecture 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2FMAC_Curve%2FMAC_curve_lecture_notebook.ipynb&branch=main)|
-| Kuznets Curve | Environmental Kuznets Curve Hypothesis | CO2 Emissions vs GDP | | [launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2FKuznets_Curve%2FDATA-88-Historical-Emissions-The-Kuznets-Curve.ipynb&branch=main)|
-| Rosling Plots | Historical Emissions with Rosling Plots | CO2 Emissions vs GDP | |[launch DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA88-SP22&urlpath=tree%2FDATA88-SP22%2FRosling_Plots%2FDATA-88-Historical-Emissions-with-Rosling-Plots.ipynb&branch=main) |
+The `main` branch of this Github repository will reflect the most recent **Lecture notes**. _Note that the Datahub links will not be live until Wednesday at 10am PT, following the Tuesday lecture. In fact, all Lecture notes and topics are subject to change until the **day** of lecture._ Additional resources for the course can be found on [bcourses](https://bcourses.berkeley.edu/courses/1513076). You will need to be enrolled in the class to see the additional resources, but the Lectures will remain public.
+
+Please contact Head TA Peter F. Grinde-Hollevik with any questions.  He knows everything.
+
+
+| Lecture         | Date       | Summary                                     | Topic                 | Datahub Link       |
+|-----------------|------------|---------------------------------------------|-----------------------|--------------------|
+| [Lecture 1](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture1) | 01/18/2022 | Course overview & Introduction to Python    | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 2](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture2) | 01/25/2022 | Sort, merge, and aggregate tables           | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 3](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture3) | 02/01/2022 | Finding correlations                        | Environmental Justice | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 4](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture4) | 02/08/2022 | Creating distributions                      | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 5](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture5) | 02/15/2022 | Simple mapping                              | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 6](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture6) | 02/22/2022 | Finding correlations                        | Emissions monitoring  | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 7](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture7) | 03/01/2022 | Recreating published results                | Emissions Abatement   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 8](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture8) | 03/08/2022 | Fitting a curve                             | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
+| [Lecture 9](https://github.com/ds-modules/DATA88-SP22/tree/main/Lecture9) | 03/15/2022 | Data visualization                          | Emissions vs growth   | [launch DataHub](https://bcourses.berkeley.edu/courses/1513076/assignments/syllabus) |
 
 
