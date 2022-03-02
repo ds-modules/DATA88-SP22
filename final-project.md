@@ -1,13 +1,13 @@
 
-## Final Lab
+## Final Project
 
-The final lab is optional.  You will not be penalized for *not* completing the assignment.  Rather, you will have the opportunity to:
+The final Project is optional.  You will not be penalized for *not* completing the assignment.  Rather, you will have the opportunity to:
 
 1. Work on a real-world, relevant example - the best way to learn data science.
 2. The chance to present to members of the White House Environmental Justice Advisory Council.
-3. A quick and efficient way to get an **A**
+3. A quick and efficient way to get an **A+**
 
-The scope of the final lab is to examine the most recent environmental justice score, published by the White House in February 2022.  The score is exceedingly simple, effectively just a series of if-then statements with thresholds. For example:
+The scope of the final project is to examine the most recent environmental justice score, published by the White House in February 2022.  The score is exceedingly simple, effectively just a series of if-then statements with thresholds. For example:
 
 > IF at or above the 90th percentile for energy burden OR PM2.5 in the air AND is above the 65th percentile for low income AND at or below 20% for higher ed enrollment rate
 
